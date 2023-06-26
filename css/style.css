@@ -11,9 +11,9 @@ table.dataTable thead .sorting_desc_disabled:before {
   bottom: .2em;
 }
 
-body { 
+/* body { 
     -ms-user-select: none; 
     -moz-user-select: none; 
     -webkit-user-select: none; 
     user-select: none; 
-}
+} */
