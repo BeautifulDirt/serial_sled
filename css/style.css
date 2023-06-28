@@ -17,13 +17,3 @@ table.dataTable thead .sorting_desc_disabled:before {
     -webkit-user-select: none; 
     user-select: none; 
 } */
-
-.logo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.text {
-  text-align: center;
-}
